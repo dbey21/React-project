@@ -1,0 +1,16 @@
+#page-container {
+  border: 2px solid red;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+#main {
+  border: 2px dashed gray;
+  flex-grow: 1;
+}
+
+#footer {
+  border: 2px dashed gray;
+  height: 100px;
+}
