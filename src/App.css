@@ -1,16 +1,37 @@
-#page-container {
-  border: 2px solid red;
+/* #page-container {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
 }
 
 #main {
-  border: 2px dashed gray;
   flex-grow: 1;
+  display: flex;
+
+}
+
+#navbar {
+    background-color: #aaa;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+}
+
+#main-content {
+    flex-grow: 1;
+    
+}
+
+#welcome {
+    background-color: #aaa;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    max-width: 25%;
+    
 }
 
 #footer {
   border: 2px dashed gray;
   height: 100px;
-}
+} */
